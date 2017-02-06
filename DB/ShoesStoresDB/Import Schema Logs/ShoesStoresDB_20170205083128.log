@@ -1,0 +1,71 @@
+05-02-2017 04:31:28 a. m.	This log contains information about the import schema operation into project 'ShoesStoresDB' on computer 'APPLEORLANDO' by user 'apple4'.
+05-02-2017 04:31:28 a. m.	Import of database schema has started.
+05-02-2017 04:31:39 a. m.	Gathering database options
+05-02-2017 04:31:39 a. m.	Gathering users
+05-02-2017 04:31:39 a. m.	Gathering roles
+05-02-2017 04:31:39 a. m.	Gathering application roles
+05-02-2017 04:31:39 a. m.	Gathering role memberships
+05-02-2017 04:31:39 a. m.	Gathering filegroups
+05-02-2017 04:31:39 a. m.	Gathering full-text catalogs
+05-02-2017 04:31:39 a. m.	Gathering assemblies
+05-02-2017 04:31:39 a. m.	Gathering certificates
+05-02-2017 04:31:39 a. m.	Gathering asymmetric keys
+05-02-2017 04:31:39 a. m.	Gathering symmetric keys
+05-02-2017 04:31:39 a. m.	Gathering encrypted symmetric keys
+05-02-2017 04:31:39 a. m.	Gathering schemas
+05-02-2017 04:31:39 a. m.	Gathering XML schema collections
+05-02-2017 04:31:39 a. m.	Gathering user-defined data types
+05-02-2017 04:31:39 a. m.	Gathering user-defined types
+05-02-2017 04:31:39 a. m.	Gathering table types
+05-02-2017 04:31:39 a. m.	Gathering unique keys for table types
+05-02-2017 04:31:39 a. m.	Gathering primary keys for table types
+05-02-2017 04:31:39 a. m.	Gathering check constraints for table types
+05-02-2017 04:31:39 a. m.	Gathering default constraints for table types
+05-02-2017 04:31:39 a. m.	Gathering partition functions
+05-02-2017 04:31:39 a. m.	Gathering partition schemes
+05-02-2017 04:31:39 a. m.	Gathering functions
+05-02-2017 04:31:39 a. m.	Gathering encrypted functions
+05-02-2017 04:31:39 a. m.	Gathering aggregates
+05-02-2017 04:31:39 a. m.	Gathering procedures
+05-02-2017 04:31:39 a. m.	Gathering encrypted procedures
+05-02-2017 04:31:39 a. m.	Gathering tables
+05-02-2017 04:31:40 a. m.	Gathering primary keys
+05-02-2017 04:31:40 a. m.	Gathering unique constraints
+05-02-2017 04:31:40 a. m.	Gathering foreign keys
+05-02-2017 04:31:40 a. m.	Gathering default constraints
+05-02-2017 04:31:40 a. m.	Gathering check constraints
+05-02-2017 04:31:40 a. m.	Gathering views
+05-02-2017 04:31:40 a. m.	Gathering encrypted views
+05-02-2017 04:31:40 a. m.	Gathering indexes
+05-02-2017 04:31:40 a. m.	Gathering statistics
+05-02-2017 04:31:40 a. m.	Gathering full-text index stoplists
+05-02-2017 04:31:40 a. m.	Gathering full-text indexes
+05-02-2017 04:31:40 a. m.	Gathering spatial indexes
+05-02-2017 04:31:40 a. m.	Gathering XML indexes
+05-02-2017 04:31:40 a. m.	Gathering encrypted triggers
+05-02-2017 04:31:40 a. m.	Gathering triggers
+05-02-2017 04:31:40 a. m.	Gathering encrypted and clr ddl triggers
+05-02-2017 04:31:40 a. m.	Gathering ddl triggers
+05-02-2017 04:31:40 a. m.	Gathering synonyms
+05-02-2017 04:31:40 a. m.	Gathering defaults
+05-02-2017 04:31:40 a. m.	Gathering data constraint uddt bindings
+05-02-2017 04:31:40 a. m.	Gathering rules
+05-02-2017 04:31:40 a. m.	Gathering data constraint uddt bindings
+05-02-2017 04:31:40 a. m.	Gathering message types
+05-02-2017 04:31:40 a. m.	Gathering queues
+05-02-2017 04:31:40 a. m.	Gathering contracts
+05-02-2017 04:31:40 a. m.	Gathering services
+05-02-2017 04:31:40 a. m.	Gathering event notifications
+05-02-2017 04:31:40 a. m.	Gathering remote service bindings
+05-02-2017 04:31:40 a. m.	Gathering broker priorities
+05-02-2017 04:31:40 a. m.	Gathering signatures
+05-02-2017 04:31:40 a. m.	Gathering data compression options
+05-02-2017 04:31:40 a. m.	Gathering extended properties
+05-02-2017 04:31:41 a. m.	Gathering credentials
+05-02-2017 04:31:41 a. m.	Gathering logins
+05-02-2017 04:31:41 a. m.	Gathering server audits
+05-02-2017 04:31:43 a. m.	Scanning project for duplicate elements
+05-02-2017 04:31:43 a. m.	Finished duplicate element processing
+05-02-2017 04:31:44 a. m.	Finished importing database.
+05-02-2017 04:31:44 a. m.	A summary of the import was saved to the following location: C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\Import Schema Logs\ShoesStoresDB_20170205083128.log
+05-02-2017 04:31:44 a. m.	Click Finish to continue...
