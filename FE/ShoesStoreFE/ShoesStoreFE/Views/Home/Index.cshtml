@@ -17,7 +17,7 @@
                     <td>Store Name</td>
                     <td>Store Address</td>
                 </tr>
-                @foreach (var item in ViewBag.Stores.List)
+                @foreach (var item in ViewBag.Stores)
                 {
                     <tr>
                         <td>@item.storeName</td>
@@ -35,7 +35,7 @@
                 <td>Article Price</td>
                 <td>Article Total Shelf</td>
             </tr>
-            @foreach (var item in ViewBag.Articles.List)
+            @foreach (var item in ViewBag.Articles)
             {
                 <tr>
                     <td>@item.articleName</td>

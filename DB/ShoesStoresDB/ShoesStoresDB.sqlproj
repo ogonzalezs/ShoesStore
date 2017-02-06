@@ -67,5 +67,6 @@
     <Build Include="dbo\Tables\tbl_Stores.sql" />
     <Build Include="Security\AppleFabian_apple4.sql" />
     <Build Include="Security\AppleFabian_apple4_1.sql" />
+    <Build Include="v_Articles.sql" />
   </ItemGroup>
 </Project>

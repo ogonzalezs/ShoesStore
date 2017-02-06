@@ -15,8 +15,8 @@ namespace ShoesStoreFE.Controllers
             List<tbl_Stores> li =  o.GetStores().ToList();
             List<tbl_Articles> li2 = o.GetArticles().ToList();
 
-            ViewBag.Stores.List = li;
-            ViewBag.Articles.List = li2;
+            ViewBag.Stores = li;
+            ViewBag.Articles = li2;
             return View();
         }
 
