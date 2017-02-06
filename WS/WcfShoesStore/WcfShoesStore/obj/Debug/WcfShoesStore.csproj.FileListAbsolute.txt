@@ -1,0 +1,14 @@
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\WcfShoesStore.dll.config
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\WcfShoesStore.dll
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\WcfShoesStore.pdb
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\EntityFramework.dll
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\EntityFramework.SqlServer.dll
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\EntityFramework.xml
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\bin\EntityFramework.SqlServer.xml
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.Migrations.InitialCreate.resources
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.Migrations.Test.resources
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.Migrations.updatadatabase.resources
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.csproj.GenerateResource.Cache
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.dll
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.pdb
+C:\Orlando\Personal\Dev\ShoesStore\WS\WcfShoesStore\WcfShoesStore\obj\Debug\WcfShoesStore.csprojResolveAssemblyReference.cache

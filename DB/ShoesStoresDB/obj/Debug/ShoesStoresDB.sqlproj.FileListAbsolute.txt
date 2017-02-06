@@ -1,0 +1,9 @@
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\bin\Debug\ShoesStoresDB.dacpac
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\bin\Debug\ShoesStoresDB.dll
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\bin\Debug\ShoesStoresDB.pdb
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\obj\Debug\ShoesStoresDB.dll
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\obj\Debug\ShoesStoresDB.pdb
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\obj\Debug\Model.xml
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\obj\Debug\refactor.xml
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\obj\Debug\postdeploy.sql
+C:\Orlando\Personal\Dev\ShoesStore\DB\ShoesStoresDB\obj\Debug\predeploy.sql
